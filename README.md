@@ -2,7 +2,7 @@
 
 混沌之道，道场。
 
-![](.img\混沌学堂-new.png)
+![](https://github.com/NickleHuang/bx-hundun-study/blob/main/img/%E6%B7%B7%E6%B2%8C%E5%AD%A6%E5%A0%82-new.png)
 
 ## 直播描述
 
