@@ -20,7 +20,10 @@
 
 阿里云盘下载地址：由于阿里云盘限制，所以暂不支持
 
-百度云盘下载地址：链接：https://pan.baidu.com/s/1FdDQ-w8lWhj_hWj55Srs1w?pwd=h2of   提取码：h2of
+百度云盘下载地址：
+
+1. 第一期 链接：https://pan.baidu.com/s/1FdDQ-w8lWhj_hWj55Srs1w?pwd=h2of   提取码：h2of
+2. 第二期 链接：https://pan.baidu.com/s/1hWwUv9kMuCBCFVad1ms_2w?pwd=f81a  提取码：f81a 
 
 鹏程万里如何使用：https://www.pcwlenv.com/
 
