@@ -20,7 +20,7 @@
 
 阿里云盘下载地址：由于阿里云盘限制，所以暂不支持
 
-百度云盘下载地址：
+### 混沌学堂 1 - 6 期 录播 百度云盘下载地址：
 
 1. 第 一 期 链接：https://pan.baidu.com/s/1FdDQ-w8lWhj_hWj55Srs1w?pwd=h2of   提取码：h2of
 2. 第 二 期 链接：https://pan.baidu.com/s/1hWwUv9kMuCBCFVad1ms_2w?pwd=f81a  提取码：f81a 
@@ -28,13 +28,17 @@
 4. 第 四 期 链接：https://pan.baidu.com/s/13mG6qYJHD_qnnlJgMqFt_w?pwd=nlcb 提取码：nlcb
 5. 第 567 期 链接:https://pan.baidu.com/s/1mVW1H8RSUprYfq3bPDwyaA?pwd=7r2h  提取码:7r2h
 
-鹏程万里如何使用：https://www.pcwlenv.com/
+### 混沌专题之并发原理 4 期下载地址：
+
+1. 第一期 链接：https://pan.baidu.com/s/1aqa0zVwETMisQQsjva0HeA?pwd=aspr  提取码：aspr
+
+**鹏程万里如何使用：https://www.pcwlenv.com/**
 
 **联系bx_java ，获取激活码观看。每个激活码绑定微信，每个微信限制绑定两台设备**
 
 ## 注意
 
-有任何问题和建议，可以在这里提issue
+有任何问题和建议，在对应微信群里讨论，无果后群里艾特我，人数太多，互相帮助，不要私聊我，真的太累了！！！
 
 ## 上课时间
 
